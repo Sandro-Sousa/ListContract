@@ -1,0 +1,13 @@
+C:\Users\Sandr\source\repos\CourseSolution\CourseSolution\bin\Debug\netcoreapp3.1\CourseSolution.exe
+C:\Users\Sandr\source\repos\CourseSolution\CourseSolution\bin\Debug\netcoreapp3.1\CourseSolution.deps.json
+C:\Users\Sandr\source\repos\CourseSolution\CourseSolution\bin\Debug\netcoreapp3.1\CourseSolution.runtimeconfig.json
+C:\Users\Sandr\source\repos\CourseSolution\CourseSolution\bin\Debug\netcoreapp3.1\CourseSolution.runtimeconfig.dev.json
+C:\Users\Sandr\source\repos\CourseSolution\CourseSolution\bin\Debug\netcoreapp3.1\CourseSolution.dll
+C:\Users\Sandr\source\repos\CourseSolution\CourseSolution\bin\Debug\netcoreapp3.1\CourseSolution.pdb
+C:\Users\Sandr\source\repos\CourseSolution\CourseSolution\obj\Debug\netcoreapp3.1\CourseSolution.csprojAssemblyReference.cache
+C:\Users\Sandr\source\repos\CourseSolution\CourseSolution\obj\Debug\netcoreapp3.1\CourseSolution.csproj.CoreCompileInputs.cache
+C:\Users\Sandr\source\repos\CourseSolution\CourseSolution\obj\Debug\netcoreapp3.1\CourseSolution.AssemblyInfoInputs.cache
+C:\Users\Sandr\source\repos\CourseSolution\CourseSolution\obj\Debug\netcoreapp3.1\CourseSolution.AssemblyInfo.cs
+C:\Users\Sandr\source\repos\CourseSolution\CourseSolution\obj\Debug\netcoreapp3.1\CourseSolution.dll
+C:\Users\Sandr\source\repos\CourseSolution\CourseSolution\obj\Debug\netcoreapp3.1\CourseSolution.pdb
+C:\Users\Sandr\source\repos\CourseSolution\CourseSolution\obj\Debug\netcoreapp3.1\CourseSolution.genruntimeconfig.cache
